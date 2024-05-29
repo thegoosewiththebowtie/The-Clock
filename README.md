@@ -2,4 +2,6 @@
 *real* clock for windows
 
 ## guide
-https://drive.google.com/file/d/1JpmefKDErRkRUCjTYuEqohUes0mLPYGu/view?usp=drive_link
+shell:startup  %appdata%
+https://github.com/thegoosewiththebowtie/The-Clock/assets/153792474/60bf181b-fcca-4e9d-bdd0-4d99ae044e68
+
